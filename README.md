@@ -41,15 +41,15 @@ Si el commit revierte un commit anterior, debe comenzar con `revert:`, seguido d
 ### Type
 Debe ser uno de los siguientes:
 
-* ** build **: Cambios que afectan el sistema de compilación o dependencias externas (ejemplos de alcance: gulp, broccoli, npm)
-* ** ci **: Cambios en nuestros archivos de configuración de CI y scripts (ejemplos de ámbitos: Circle, BrowserStack, SauceLabs)
-* ** docs **: solo la documentación cambia
-* ** feat **: cuando se agrega una nueva característica
-* ** fix **: cuando se corrige un error
-* ** perf **: cuando hay un cambio de código que mejora el rendimiento
-* ** refactor **: cuando hay un cambio de código que no corrige un error ni agrega una función
-* ** style **: cambios que no afectan el significado del código (espacios en blanco, formato, puntos y comas faltantes, etc.)
-* ** test **: Agregar pruebas faltantes o corregir pruebas existentes
+* **build**: Cambios que afectan el sistema de compilación o dependencias externas (ejemplos de alcance: gulp, broccoli, npm)
+* **ci**: Cambios en nuestros archivos de configuración de CI y scripts (ejemplos de ámbitos: Circle, BrowserStack, SauceLabs)
+* **docs**: solo la documentación cambia
+* **feat**: cuando se agrega una nueva característica
+* **fix**: cuando se corrige un error
+* **perf**: cuando hay un cambio de código que mejora el rendimiento
+* **refactor**: cuando hay un cambio de código que no corrige un error ni agrega una función
+* **style**: cambios que no afectan el significado del código (espacios en blanco, formato, puntos y comas faltantes, etc.)
+* **test**: Agregar pruebas faltantes o corregir pruebas existentes
 
 ### Scope
 El scope debe ser el nombre del paquete npm afectado (tal como lo percibe la persona que lee el registro de cambios generado a partir de los mensajes del commit).
