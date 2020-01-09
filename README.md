@@ -1,4 +1,4 @@
-## <a name="commit"></a> Guía de mensajes en Commits
+## <a name="commit"></a> GUÍA DE MENSAJES EN COMMITS
 
 Existen algunas reglas muy precisas sobre cómo se pueden formatear nuestros mensajes git commit. Esto lleva a **más
 mensajes legibles** que son fáciles de seguir cuando se mira a través del **historial del proyecto**. Pero también,
