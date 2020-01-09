@@ -2,7 +2,7 @@
 
 Existen algunas reglas muy precisas sobre cómo se pueden formatear nuestros mensajes git commit. Esto lleva a **más
 mensajes legibles** que son fáciles de seguir cuando se mira a través del **historial del proyecto**. Pero también,
-Usamos los mensajes de confirmación de git para **generar el registro de cambios**
+Usamos los mensajes de commit de git para **generar el registro de cambios**
 
 ### Formato de mensaje de un Commit
 Cada mensaje de confirmación consta de un **encabezado**, un **cuerpo** y un **pie de página**. El encabezado tiene un formato especial
