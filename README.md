@@ -5,7 +5,7 @@ mensajes legibles** que son fáciles de seguir cuando se mira a través del **hi
 Usamos los mensajes de commit de git para **generar el registro de cambios**
 
 ### Formato de mensaje de un Commit
-Cada mensaje de confirmación consta de un **encabezado**, un **cuerpo** y un **pie de página**. El encabezado tiene un formato especial
+Cada mensaje de commit consta de un **encabezado**, un **cuerpo** y un **pie de página**. El encabezado tiene un formato especial
 que incluye un **type**, un **scope** y un **subject**:
 
 ```
