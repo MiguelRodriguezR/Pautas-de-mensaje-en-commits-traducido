@@ -1,12 +1,12 @@
 ## <a name="commit"></a> Guía de mensajes en Commits
 
-Tenemos reglas muy precisas sobre cómo se pueden formatear nuestros mensajes git commit. Esto lleva a ** más
-mensajes legibles ** que son fáciles de seguir cuando se mira a través del ** historial del proyecto **. Pero también,
-Usamos los mensajes de confirmación de git para ** generar el registro de cambios **
+Existen algunas reglas muy precisas sobre cómo se pueden formatear nuestros mensajes git commit. Esto lleva a **más
+mensajes legibles** que son fáciles de seguir cuando se mira a través del **historial del proyecto**. Pero también,
+Usamos los mensajes de confirmación de git para **generar el registro de cambios**
 
 ### Formato de mensaje de un Commit
-Cada mensaje de confirmación consta de un ** encabezado **, un ** cuerpo ** y un ** pie de página **. El encabezado tiene un formato especial
-que incluye un ** type **, un ** scope ** y un ** subject **:
+Cada mensaje de confirmación consta de un **encabezado**, un **cuerpo** y un **pie de página**. El encabezado tiene un formato especial
+que incluye un **type**, un **scope** y un **subject**:
 
 ```
 <type>(<scope>): <subject>
@@ -16,7 +16,7 @@ que incluye un ** type **, un ** scope ** y un ** subject **:
 <footer>
 ```
 
-El ** encabezado ** es obligatorio y el ** scope ** del encabezado es opcional.
+El **encabezado** es obligatorio y el **scope** del encabezado es opcional.
 
 ¡Cualquier línea del mensaje del commit no puede tener más de 100 caracteres! Esto permite que el mensaje sea más fácil.
 para leer en GitHub, así como en varias herramientas de git.
@@ -82,5 +82,5 @@ El subject contiene una breve descripción del cambio que se hizo:
 * sin punto (.) al final
 
 ### Pie de página
-El pie de página debe contener cualquier información sobre ** cambios de ulima hora ** y también es el lugar para que
-haga referencia a los problemas de GitHub que este commit ** cierra **.
+El pie de página debe contener cualquier información sobre **cambios de ulima hora** y también es el lugar para que
+haga referencia a los problemas de GitHub que este commit **cierra**.
