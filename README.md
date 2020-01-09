@@ -21,9 +21,9 @@ El **encabezado** es obligatorio y el **scope** del encabezado es opcional.
 ¡Cualquier línea del mensaje del commit no puede tener más de 100 caracteres! Esto permite que el mensaje sea más fácil.
 para leer en GitHub, así como en varias herramientas de git.
 
-El pie de página debe contener una ([referencia de cierre a un problema] (https://help.github.com/articles/closing-issues-via-commit-messages/)), si corresponde.
+El pie de página debe contener una [referencia de cierre a un problema](https://help.github.com/articles/closing-issues-via-commit-messages/), si corresponde.
 
-Ejemplos: ([algunos ejemplos serian] (https://github.com/angular/angular/commits/master))
+Ejemplos: [algunos ejemplos serian](https://github.com/angular/angular/commits/master)
 
 ```
 docs(changelog): se actualizó el registro de cambios a beta.5
